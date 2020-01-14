@@ -7,6 +7,10 @@ var string = "string";
 
 
 //# Question 2
+var person = {
+    age: 64,
+    retired: false
+};
 
 
 //# Question 3
