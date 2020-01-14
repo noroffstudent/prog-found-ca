@@ -14,6 +14,14 @@ var person = {
 
 
 //# Question 3
+var outOfStock = false;
+
+if (outOfStock) {
+    console.log("Out of stock");
+}
+else {
+    console.log("In stock");
+}
 
 
 //# Question 4
