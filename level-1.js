@@ -81,6 +81,9 @@ whatIDontLike("giraffes");
 
 
 //# Question 9
+function subtract(a, b) {
+    console.log(a - b);
+}
 
 
 //# Question 10
