@@ -87,4 +87,11 @@ function subtract(a, b) {
 
 
 //# Question 10
+var array = [];
+
+function addToArray(element) {
+    array.push(element);
+}
+
+addToArray("a value");
 
