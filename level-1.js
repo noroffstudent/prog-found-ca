@@ -73,6 +73,11 @@ for (var i = 0, object = null; i < array.length; i ++) {
 
 
 //# Question 8
+function whatIDontLike(subject)  {
+    console.log("I don't like", subject);
+}
+
+whatIDontLike("giraffes");
 
 
 //# Question 9
