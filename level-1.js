@@ -33,6 +33,9 @@ for (var i = 0; i < numbers.length; i ++) {
 
 
 //# Question 5
+for (var i = 15; i <= 25; i ++) {
+    console.log(i);
+}
 
 
 //# Question 6
