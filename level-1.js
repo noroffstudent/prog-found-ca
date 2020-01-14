@@ -3,6 +3,7 @@
  */
 
 //# Question 1
+var string = "string";
 
 
 //# Question 2
