@@ -47,6 +47,29 @@ for (var i = 15; i <= 25; i ++) {
 
 
 //# Question 7
+var array = [
+    {
+        id: 0,
+        name: "Object 1",
+        active: true
+    },
+    {
+        id: 1,
+        name: "Object 2",
+        active: true
+    },
+    {
+        id: 2,
+        name: "Object 3",
+        active: false
+    }
+];
+
+for (var i = 0, object = null; i < array.length; i ++) {
+    object = array[i];
+
+    console.log(object.id, "=", object.active);
+}
 
 
 //# Question 8
